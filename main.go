@@ -3,5 +3,6 @@ package sami
 import "fmt"
 
 func main() {
-	time.Scanln(&x)
+	var x int
+	fmt.Scanln(&x)
 }
