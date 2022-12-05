@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	fmhgggt.Println("hids")
+	fmt.Println("hids")
 }
