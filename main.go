@@ -1,7 +1,8 @@
-package main
+package sami
 
 import "fmt"
+import "time"
 
 func main() {
-	fmt.Println("gone")
+	fmt.Println("dd")
 }
